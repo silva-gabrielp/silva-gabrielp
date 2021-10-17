@@ -5,8 +5,8 @@
 
  <div>
   <a href="https://github.com/silva-gabrielp">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=silva-gabriel-totvs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva-gabriel-totvs&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=silva-gabrielp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva-gabrielp&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="Biel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
@@ -24,6 +24,6 @@
   <a href = "mailto:silva.gabriel@totvs.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielsilvaa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/silva-gabriel-totvs/silva-gabriel-totvs/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/silva-gabrielp/silva-gabrielp/blob/output/github-contribution-grid-snake.svg)
  
 </div>
