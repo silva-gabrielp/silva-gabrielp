@@ -4,7 +4,7 @@
 - 🌱 Estudando programação em Powershell, PHP, e Python
 
  <div>
-  <a href="https://github.com/silva-gabriel-totvs">
+  <a href="https://github.com/silva-gabrielp">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=silva-gabriel-totvs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva-gabriel-totvs&layout=compact&langs_count=7&theme=dark"/>
 </div>
