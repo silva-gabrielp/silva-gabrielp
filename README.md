@@ -10,8 +10,10 @@
 </div>
  
 ##
- 
+
+<div style="text-decoration: none; color: red;">
 <b>Languages and Tools:</b>
+</div>
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Biel-Power" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
