@@ -15,7 +15,6 @@
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Biel-Linux" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img align="center" alt="Biel-Bash" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
     <img align="center" alt="Biel-MySQL" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="Biel-Sql" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
     <img align="center" alt="Biel-Python" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
