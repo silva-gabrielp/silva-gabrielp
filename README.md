@@ -9,10 +9,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva-gabrielp&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-
+**## Languages and Tools:**
   
   <div style="display: inline_block"><br>
-    <strong>Languages and Tools:</strong>
     <img align="center" alt="Biel-Power" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
     <img align="center" alt="Biel-Windows" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
     <img align="center" alt="Biel-CentOS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg">
