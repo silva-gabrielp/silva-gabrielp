@@ -8,10 +8,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=silva-gabrielp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva-gabrielp&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+<strong>Languages and Tools:</strong><br>
  
  ##
- 
-  <strong>Languages and Tools:</strong><br>
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Biel-Power" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
