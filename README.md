@@ -10,7 +10,9 @@
 </div>
  
  ##
- <strong>Languages and Tools:</strong>
+ 
+  <strong>Languages and Tools:</strong><br>
+  
   <div style="display: inline_block"><br>
     <img align="center" alt="Biel-Linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="Biel-Bash" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
