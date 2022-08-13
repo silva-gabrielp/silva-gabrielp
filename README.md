@@ -11,9 +11,7 @@
  
 ##
 
-<div style="text-decoration: none; color: red;">
-<b>Languages and Tools:</b>
-</div>
+<b text-decoration: none;>Languages and Tools:</b>
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Biel-Power" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
