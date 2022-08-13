@@ -13,7 +13,7 @@
  
  ##
  
- <b>Languages and Tools:</b><br>
+ <b>Languages and Tools</b><br>
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Biel-Power" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
