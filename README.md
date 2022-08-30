@@ -1,7 +1,7 @@
 ## Hi! I'm Gabriel Silva
 
-- 🔭 Today I work as Analyst II of Cloud Services at TOTVS
-- 🌱 Studying programming in Powershell, PHP, and Python
+- 🔭 Today I work as Analyst of Cloud Services at TOTVS
+- 🌱 Acting and Studying Programming in Powershell, .NET, PHP and Python
 
  <div>
   <a href="https://github.com/silva-gabrielp">
