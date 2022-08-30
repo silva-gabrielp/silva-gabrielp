@@ -17,7 +17,7 @@
     <img align="center" alt="Biel-CentOS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg">
     <img align="center" alt="Biel-Debian" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
     <img align="center" alt="Biel-MySQL" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" color="#fff" alt="Biel-Sql" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+    <img align="center" alt="Biel-Sql" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
     <img align="center" alt="Biel-Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
   
