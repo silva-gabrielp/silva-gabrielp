@@ -1,32 +1,22 @@
-## Hi, I'm Gabriel Silva 👋
+<h1 align="center">Hi 👋, I'm Gabriel Silva</h1>
+<h3 align="center">A Senior Cloud Services Analyst at TOTVS from Brazil</h3>
 
-- 🔭 Senior Cloud Services Analyst at TOTVS
-- 🌱 Working with and learning PowerShell, .NET, PHP and Python
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=silva-gabrielp&label=Profile%20views&color=0e75b6&style=flat" alt="silva-gabrielp" /> </p>
 
- <div>
-  <a href="https://github.com/silva-gabrielp">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=silva-gabrielp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva-gabrielp&layout=compact&langs_count=7&theme=dark"/>
-</div>
- 
-##
-  
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Biel-Power" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
-    <img align="center" alt="Biel-Windows" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-    <img align="center" alt="Biel-CentOS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg">
-    <img align="center" alt="Biel-Debian" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
-    <img align="center" alt="Biel-MySQL" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="Biel-Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
-  
-##
- 
-<div>
-  <a href="https://instagram.com/gabrielp_silvaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:silva.gabriel@totvs.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielsilvaa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/silva-gabrielp/silva-gabrielp/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silva-gabrielp" alt="silva-gabrielp" /></a> </p>
+
+- 🌱 I’m currently learning **Working with PowerShell, .NET, PHP and Python**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabrielsilvaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabrielsilvaa/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silva-gabrielp&show_icons=true&locale=en&layout=compact" alt="silva-gabrielp" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silva-gabrielp&show_icons=true&locale=en" alt="silva-gabrielp" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silva-gabrielp&" alt="silva-gabrielp" /></p>
