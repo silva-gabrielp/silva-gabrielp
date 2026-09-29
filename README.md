@@ -55,14 +55,10 @@ $gabriel = [PSCustomObject]@{
 
 ---
 
-### Projects
+### Stack Invaders
 
-<!-- Mantenha só os projetos públicos; troque o # pelo link do repositório -->
-| Project | Description | Stack |
-|---|---|---|
-| [**RM Toolkit**](#) | Desktop toolkit to automate TOTVS RM environment administration | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
-| [**IP Kit**](#) | Chrome extension to normalize IP lists and check which ones already exist on a page | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [**Control-Git**](#) | Windows app to operate Git/GitHub across multiple repositories | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
-| [**Wiki**](#) | Technical tutorials wiki with public landing page and admin panel | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+<p align="center">
+  <img src="./assets/stack-invaders.svg" alt="Stack Invaders - animated terminal game" width="100%"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
