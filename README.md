@@ -9,9 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabrielsilvaa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:gabrielp14.silva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/gabrielp_silvaa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:SEU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/SEU_INSTAGRAM/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS"/>
 </p>
 
 ---
@@ -54,23 +55,14 @@ $gabriel = [PSCustomObject]@{
 
 ---
 
-### GitHub activity
+### Projects
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-</p>
-
-<!-- Snake: exige o workflow .github/workflows/snake.yml -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg"/>
-  </picture>
-</p>
+<!-- Mantenha só os projetos públicos; troque o # pelo link do repositório -->
+| Project | Description | Stack |
+|---|---|---|
+| [**RM Toolkit**](#) | Desktop toolkit to automate TOTVS RM environment administration | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+| [**IP Kit**](#) | Chrome extension to normalize IP lists and check which ones already exist on a page | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**Control-Git**](#) | Windows app to operate Git/GitHub across multiple repositories | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+| [**Wiki**](#) | Technical tutorials wiki with public landing page and admin panel | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
